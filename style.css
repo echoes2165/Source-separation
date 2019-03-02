@@ -1,0 +1,26 @@
+h1 {
+    color:red;
+    text-align:center;
+    background:#57677f
+}
+
+p {
+  color:blue;
+  text-decoration-style: dashed;
+  background-position: teal;
+  background-size: contain;
+  background-color:red;
+}
+
+div {
+  background-color: teal;
+  width: 200px;
+  height: 300px;
+  margin: 20px;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  font-size: 28px;
+  font-weight: bold;
+  border: 3px dotted black;
+
+}
